@@ -1,4 +1,4 @@
-package gr.aueb.cf.schoolapp.model;
+package gr.aueb.cf.schoolapp;
 
 /**
  * Hello world!
