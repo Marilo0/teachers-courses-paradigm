@@ -1,6 +1,6 @@
 package gr.aueb.cf.schoolapp.model;
 
-import gr.aueb.cf.schoolapp.model.enums.LessonType;
+import gr.aueb.cf.schoolapp.enums.LessonType;
 import jakarta.persistence.*;
 import lombok.*;
 

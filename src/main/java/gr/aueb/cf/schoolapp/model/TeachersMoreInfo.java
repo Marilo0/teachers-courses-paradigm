@@ -1,6 +1,6 @@
 package gr.aueb.cf.schoolapp.model;
 
-import gr.aueb.cf.schoolapp.model.enums.GenderType;
+import gr.aueb.cf.schoolapp.enums.GenderType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

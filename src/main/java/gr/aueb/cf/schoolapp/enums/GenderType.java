@@ -1,4 +1,4 @@
-package gr.aueb.cf.schoolapp.model.enums;
+package gr.aueb.cf.schoolapp.enums;
 
 public enum GenderType {
 
